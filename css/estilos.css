@@ -1,0 +1,46 @@
+body {
+    background-color:  #D7EAD6;
+    color: black;
+}
+
+h1, h2 {
+    text-align: center;
+    
+}
+
+h1 {
+    text-transform: uppercase;
+    color: #046521;
+}
+
+h2 {
+    text-transform: capitalize;
+    margin: auto;
+}
+
+h3 {
+    color: #1F7B00;
+    text-align: center;
+}
+
+h4 {
+    color:#000000;
+}
+
+a {
+    text-transform: capitalize;
+    color:#1F7B00;
+    text-decoration: none;
+}
+
+img {
+    width: 70%;
+    border-radius: 20px;
+    display: block;
+    margin: 30px auto;
+}
+
+strong {
+    color: #046521;
+}
+
